@@ -1,0 +1,3 @@
+#!/bin/bash
+docsteady --version
+docsteady generate-tpr LVV-P134 SCTR-111.tex --trace true
